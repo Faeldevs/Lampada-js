@@ -1,0 +1,20 @@
+header,
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+button {
+    width: 100px;
+    padding: 1em 2em;
+    border-radius: 10px;
+    border: none;
+    color: rgb(0, 0, 0);
+    background-color: rgba(216, 188, 30, 0.671);
+}
+
+button:hover{
+    background-color: rgba(151, 131, 19, 0.671);
+}
